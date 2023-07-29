@@ -2,7 +2,7 @@
   "name": "youtube-dl-exec",
   "description": "A simple Node.js wrapper for youtube-dl",
   "homepage": "https://nicedoc.io/microlinkhq/youtube-dl-exec",
-  "version": "2.4.3",
+  "version": "2.4.6",
   "main": "src/index.js",
   "author": {
     "email": "hello@microlink.io",
@@ -71,6 +71,10 @@
       "email": "joeysun6@gmail.com"
     },
     {
+      "name": "Michael Kuenzli",
+      "email": "michaelkuenzli@gmail.com"
+    },
+    {
       "name": "Navid",
       "email": "navidmafi2006@gmail.com"
     },
@@ -106,7 +110,7 @@
     "youtube-downloader"
   ],
   "dependencies": {
-    "bin-version-check": "~5.0.0",
+    "bin-version-check": "~5.1.0",
     "dargs": "~7.0.0",
     "execa": "~5.1.0",
     "is-unix": "~2.0.1",
